@@ -10,6 +10,8 @@ vector<int> result_bfs;
 vector<int> result_dfs;
 bool visit[1002];
  
+//commit test1
+
 void bfs(int temp){
     queue<int> q;
     q.push(temp);
