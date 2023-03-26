@@ -9,8 +9,10 @@ vector<int> vec[10002];
 vector<int> result_bfs;
 vector<int> result_dfs;
 bool visit[1002];
+
  
 //commit test1
+ //commit change 2
 
 void bfs(int temp){
     queue<int> q;
